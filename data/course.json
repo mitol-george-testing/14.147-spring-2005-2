@@ -1,0 +1,30 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Game Theory"
+    ],
+    [
+      "Social Science",
+      "Economics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "114556ab-4e11-bfc2-ab71-2fe2c3eeb3b0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Game Theory",
+  "course_description": "This course/workshop aims to provide an invigorating intellectual environment for graduate students and junior faculty who are interested in economic theory. We will discuss research ideas and explore topics in game theory and more broadly in economic theory.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.147",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
